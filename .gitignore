@@ -1,0 +1,70 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Logs
+*.log
+*.bak
+*.tmp
+*.old
+
+# VS Code
+.vscode/
+
+# VS
+.vs/
+
+# VS for Mac
+.idea/
+*.csproj.user
+
+# Backup logs from MirrorCopy
+backup_log_*.txt
+
+# Config file
+MirrorCopy.config
+
+# Recycle Bin of some extensions
+.RecycleBin/
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# JetBrains Rider
+*.DotSettings.user
+
+# Windows thumbnails
+Thumbs.db
+ehthumbs.db
+
+# System files
+.DS_Store
+desktop.ini
+
+# Executables
+*.exe
+*.dll
+*.pdb
+
+# Publish
+publish/
+*.pubxml
+
+# Dist folder
+dist/
