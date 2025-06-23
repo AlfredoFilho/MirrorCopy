@@ -2,6 +2,10 @@
 
 MirrorCopy is a lightweight Windows application designed to simplify the process of mirroring directories using `robocopy`. It provides a user-friendly interface for selecting source and destination folders, executing the copy operation, and viewing logs. It also supports command-line arguments for automated backups.
 
+## Releases
+
+Find the latest stable releases and previous versions [here](https://github.com/AlfredoFilho/MirrorCopy/releases).
+
 ## Features
 
 * **Directory Mirroring**: Easily synchronize source and destination folders using `robocopy /MIR`.
